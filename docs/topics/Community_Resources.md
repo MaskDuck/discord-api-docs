@@ -73,6 +73,7 @@ Many of these libraries are represented in the [unofficial, community-driven Dis
   - [discord-slash-commands](https://github.com/MeguminSama/discord-slash-commands) and its [Deno fork](https://deno.land/x/discord_slash_commands)
   - [slash-create](https://github.com/Snazzah/slash-create)
 - Python
+  - [discord-interactions](https://github.com/goverfl0w/discord-interactions) 
   - [discord-interactions-python](https://github.com/discord/discord-interactions-python)
   - [discord-interactions.py](https://github.com/LiBa001/discord-interactions.py)
   - [dispike](https://github.com/ms7m/dispike)
